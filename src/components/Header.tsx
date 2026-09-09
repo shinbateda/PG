@@ -33,7 +33,7 @@ export const Header: React.FC<HeaderProps> = ({ activeSection, onNavigate }) => 
           </div>
           <div>
             <h1 className="text-base sm:text-lg font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-white via-slate-100 to-cyan-300">
-              국내 PG 산업 시장 구조 &amp; 품목 심층 분석
+              국내 PG사 심층 분석
             </h1>
             <p className="text-[11px] text-slate-400 hidden sm:block">
               2025~2026 전자지급결제대행 규모별 생태계 &amp; 규제 패러다임
